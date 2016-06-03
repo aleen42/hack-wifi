@@ -8,5 +8,5 @@
 
 - WPS PIN: '02328119'
 - WPA PSK: '0hth-i2h4-za9r'
-- AP SSID: 'Victor'
+- AP SSID: 'MOST1-PBD868T_Network_1'
 
