@@ -7,7 +7,7 @@
 Recommended conditions:
 
 - a PC with Ubuntu 14.04
-- a wifi scanner(TL-WN722N), and here is the [drver installation tutorial](https://aleen42.gitbooks.io/personalwiki/content/qa/tl_wn722n_ubuntu.html) in Ubuntu 14.04
+- a wifi scanner(TL-WN722N), and here is the [driver installation tutorial](https://github.com/aleen42/PersonalWiki/blob/master/qa/tl_wn722n_ubuntu.md) in Ubuntu 14.04
 
 #### :fuelpump: How to contribute
 
